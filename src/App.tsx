@@ -9,6 +9,10 @@ function App() {
         <div className="">
           <img src={heroImg} alt="hero" className="hero-img" />
         </div>
+        
+        <div className="works">
+          <h1>Coming soon...</h1>
+        </div>
       </section>
     </>
   )
